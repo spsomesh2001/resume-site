@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/resume-site/static/js/main.fd2c8ade.chunk.js",
+    "main.js.map": "/resume-site/static/js/main.fd2c8ade.chunk.js.map",
+    "runtime-main.js": "/resume-site/static/js/runtime-main.953296f8.js",
+    "runtime-main.js.map": "/resume-site/static/js/runtime-main.953296f8.js.map",
+    "static/js/2.9e2f0569.chunk.js": "/resume-site/static/js/2.9e2f0569.chunk.js",
+    "static/js/2.9e2f0569.chunk.js.map": "/resume-site/static/js/2.9e2f0569.chunk.js.map",
+    "index.html": "/resume-site/index.html",
+    "static/js/2.9e2f0569.chunk.js.LICENSE.txt": "/resume-site/static/js/2.9e2f0569.chunk.js.LICENSE.txt",
+    "static/media/Resume.2ea1a5fa.pdf": "/resume-site/static/media/Resume.2ea1a5fa.pdf",
+    "static/media/bg.4595b451.jpg": "/resume-site/static/media/bg.4595b451.jpg",
+    "static/media/bg.d4e1b22b.jpg": "/resume-site/static/media/bg.d4e1b22b.jpg",
+    "static/media/bg.edea88fd.jpg": "/resume-site/static/media/bg.edea88fd.jpg",
+    "static/media/bgM.3625f4f5.jpg": "/resume-site/static/media/bgM.3625f4f5.jpg",
+    "static/media/bgM.d34ca804.jpg": "/resume-site/static/media/bgM.d34ca804.jpg",
+    "static/media/bgm.3914fe26.jpg": "/resume-site/static/media/bgm.3914fe26.jpg",
+    "static/media/expressjs-icon.ea97b712.svg": "/resume-site/static/media/expressjs-icon.ea97b712.svg",
+    "static/media/javascript-icon.081325c6.svg": "/resume-site/static/media/javascript-icon.081325c6.svg",
+    "static/media/mongodb-icon.1aca075d.svg": "/resume-site/static/media/mongodb-icon.1aca075d.svg",
+    "static/media/nodejs-icon.615ffbea.svg": "/resume-site/static/media/nodejs-icon.615ffbea.svg",
+    "static/media/p-vid.b947c6d2.mp4": "/resume-site/static/media/p-vid.b947c6d2.mp4",
+    "static/media/photo.a9fbd5a2.jpg": "/resume-site/static/media/photo.a9fbd5a2.jpg",
+    "static/media/react-icon.e68b35f4.svg": "/resume-site/static/media/react-icon.e68b35f4.svg",
+    "static/media/vac-vid.6c3ebab9.mp4": "/resume-site/static/media/vac-vid.6c3ebab9.mp4",
+    "static/media/vid.62bc4fd5.mp4": "/resume-site/static/media/vid.62bc4fd5.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.953296f8.js",
+    "static/js/2.9e2f0569.chunk.js",
+    "static/js/main.fd2c8ade.chunk.js"
+  ]
+}
