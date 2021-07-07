@@ -42,7 +42,7 @@ const Contact = () => {
     <>
       <CContainer>
         <CHeading id="contact">Contact Me</CHeading>
-        <CDesc>I am always looking for new opportunities to learn, collobrate and work with fellow developers.</CDesc>
+        <CDesc>I am always looking for new opportunities to learn, collaborate and work with fellow developers.</CDesc>
         <CWrapper>
           <CForm action="https://formsubmit.co/4a26177c2afdeb8119ecc09f8d0b7402" method="POST" >
           <STextInp variant="filled" label="Name" name="Name" required style={cstyle.textStyle}></STextInp>
