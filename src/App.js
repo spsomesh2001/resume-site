@@ -21,7 +21,7 @@ const App = () => {
   }, []);
 
   return (
-    <Router>
+    <Router basename="resume-site">
       <GlobalContainer></GlobalContainer>
       <Switch>
         <Route exact path="/">
