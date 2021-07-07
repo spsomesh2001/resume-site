@@ -8,6 +8,7 @@ import {
   Home,
   Footer,
 } from "./components/index";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 const App = () => {
   const [panim, setPAnim] = useState();
@@ -20,22 +21,26 @@ const App = () => {
   }, []);
 
   return (
-    <>
+    <Router>
       <GlobalContainer></GlobalContainer>
-      {panim ? (
-        <>
-          <PageLoad></PageLoad>
-        </>
-      ) : (
-        <>
-          <Navbar></Navbar>
-          <Intro></Intro>
-          <MIcons></MIcons>
-          <Home></Home>
-          <Footer></Footer>
-        </>
-      )}
-    </>
+      <Switch>
+        <Route exact path="/">
+          {panim ? (
+            <>
+              <PageLoad></PageLoad>
+            </>
+          ) : (
+            <>
+              <Navbar></Navbar>
+              <Intro></Intro>
+              <MIcons></MIcons>
+              <Home></Home>
+              <Footer></Footer>
+            </>
+          )}
+        </Route>
+      </Switch>
+    </Router>
   );
 };
 
